@@ -1,0 +1,8 @@
+﻿  DLL.cpp
+c:\users\marka\desktop\software engi prac\assignment\assignment\dll\dll.cpp(23): warning C4018: '<': signed/unsigned mismatch
+  dllmain.cpp
+     Creating library C:\Users\marka\Desktop\Software Engi Prac\Assignment\Assignment\Release\DLL.lib and object C:\Users\marka\Desktop\Software Engi Prac\Assignment\Assignment\Release\DLL.exp
+  Generating code
+  All 137 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DLL.vcxproj -> C:\Users\marka\Desktop\Software Engi Prac\Assignment\Assignment\Release\DLL.dll
